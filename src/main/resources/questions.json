@@ -1,0 +1,1514 @@
+[
+  {
+    "id": 0,
+    "question": "D. João V e D. Maria são casados há quantos anos?",
+    "answer": 0,
+    "options": [
+      "2",
+      "3",
+      "4",
+      "São divorciados"
+    ],
+    "chapter": 1
+  },
+  {
+    "id": 1,
+    "question": "El-Rei estava a montar um puzzle de que sítio? ",
+    "answer": 1,
+    "options": [
+      "Catedral de Notre Dame",
+      "Basílica de S. Pedro de Roma",
+      "Torre dos Clérigos",
+      "O rei não estava a montar nenhum puzzle"
+    ],
+    "chapter": 1
+  },
+  {
+    "id": 2,
+    "question": "Enquanto o rei se dirige para os aposentos da rainha, quem é que chegou ao castelo?",
+    "answer": 3,
+    "options": [
+      "D. Nuno Alvares Pereira, cavaleiro",
+      "D. Nuno Bras, Bispo Católico Português",
+      "Pedro Alvares Cabral, navegador",
+      "D.Nuno da Cunha, bispo inquisidor"
+    ],
+    "chapter": 1
+  },
+  {
+    "id": 3,
+    "question": "Dona Maria sonhou com quem?",
+    "answer": 2,
+    "options": [
+      "Infante D.Pedro de Portugal",
+      "Infante D.Henrique",
+      "Infante D.Francisco",
+      "Dona Maria não sonhou nessa noite"
+    ],
+    "chapter": 1
+  },
+  {
+    "id": 4,
+    "question": "Qual era o desejo de Dona Maria?",
+    "answer": 1,
+    "options": [
+      "Ser rica",
+      "Dar à luz um herdeiro do rei",
+      "Dar à luz outro herdeiro",
+      "Aprender a fazer ponto de cruz"
+    ],
+    "chapter": 1
+  },
+  {
+    "id": 5,
+    "question": "Se a conceção da rainha ocorresse, seria vista como um milagre relacionado a que ordem?",
+    "answer": 3,
+    "options": [
+      "Jerónimos",
+      "Beneditinos",
+      "Basilianos",
+      "São Francisco"
+    ],
+    "chapter": 2
+  },
+  {
+    "id": 6,
+    "question": "O que é que foi roubado no convento de S. Francisco de Xabregas?",
+    "answer": 1,
+    "options": [
+      "1 imagem de um santo",
+      "3 lâmpadas de prata",
+      "3 cálices de ouro",
+      "nada"
+    ],
+    "chapter": 2
+  },
+  {
+    "id": 7,
+    "question": "O que é que revelou o estudante que apareceu no convento querendo falar com o bispo?",
+    "answer": 0,
+    "options": [
+      "Que as lampadas estavam no Mosteiro da Cotovia",
+      "Que queria ser padre",
+      "Que era o ladrão",
+      "Que estudante?"
+    ],
+    "chapter": 2
+  },
+  {
+    "id": 8,
+    "question": "Quem foi o primeiro a saber da gravidez da rainha?",
+    "answer": 2,
+    "options": [
+      "Frei António de S.Jose",
+      "O rei",
+      "Confessor",
+      "O criado"
+    ],
+    "chapter": 2
+  },
+  {
+    "id": 9,
+    "question": "Qual era o desejo dos Franciscanos?",
+    "answer": 0,
+    "options": [
+      "A construção do Convento de Mafra",
+      "A construção do Convento de Lisboa",
+      "Acabar com a guerra",
+      "Paz mundial"
+    ],
+    "chapter": 2
+  },
+  {
+    "id": 10,
+    "question": "Qual a simbologia do número 7 neste capítulo?",
+    "answer": 2,
+    "options": [
+      "Os sete dias da semana",
+      "Conhecimento",
+      "A totalidade perfeita",
+      "Infelicidade"
+    ],
+    "chapter": 3
+  },
+  {
+    "id": 11,
+    "question": "Saramago fez referência a quê da cidade de Lisboa?",
+    "answer": 3,
+    "options": [
+      "Arquitetura",
+      "História",
+      "Beleza",
+      "Imundície"
+    ],
+    "chapter": 3
+  },
+  {
+    "id": 12,
+    "question": "O que se passa na quaresma que não acontece durante o ano?",
+    "answer": 2,
+    "options": [
+      "Come-se muita carne",
+      "As mulheres não podiam sair à rua",
+      "A liberdade para as mulheres andarem sozinhas",
+      "Nenhuma das anteriores"
+    ],
+    "chapter": 3
+  },
+  {
+    "id": 13,
+    "question": "Que recurso expressivo está presente na seginte frase: \"[...] a cidade é imunda, alcatifada, de excremetos, de lixo, de cães lazarrentos e gatos vádios, e lama mesmo quando não chove. \"(p.36)",
+    "answer": 1,
+    "options": [
+      "Antítese",
+      "Enumeração",
+      "Elipse",
+      "Metáfora"
+    ],
+    "chapter": 3
+  },
+  {
+    "id": 14,
+    "question": "Que recurso expressivo está presente na seginte frase: \"[entre a papada pletórica e o pescoço engelhado,[...]entre a pança repleta e a barriga agarrada às costas\"(p.36)",
+    "answer": 3,
+    "options": [
+      "Enumeração",
+      "Hipérbole",
+      "Anáfora",
+      "Paralelismo"
+    ],
+    "chapter": 3
+  },
+  {
+    "id": 15,
+    "question": "Qual a idade de baltasar?",
+    "answer": 2,
+    "options": [
+      "20",
+      "29",
+      "26",
+      "30"
+    ],
+    "chapter": 4
+  },
+  {
+    "id": 16,
+    "question": "Como se chama a guerra em que Baltasar perdeu uma parte do corpo?",
+    "answer": 1,
+    "options": [
+      "Aljubarrota",
+      "Jeres de los Cabaleros",
+      "Alcácer Quibir",
+      "Ceuta"
+    ],
+    "chapter": 4
+  },
+  {
+    "id": 17,
+    "question": "O que fez Baltasar para conseguir pagar ao ferreiro e ao seleiro?",
+    "answer": 3,
+    "options": [
+      "Vendeu a casa",
+      "Pediu dinheiro aos pais",
+      "Pediu dinheiro emprestado a um amigo",
+      "Pediu esmola"
+    ],
+    "chapter": 4
+  },
+  {
+    "id": 18,
+    "question": "Quem é que Baltasar conhece em Lisboa?",
+    "answer": 0,
+    "options": [
+      "João Elvas",
+      "Bartolomeu",
+      "Blimunda",
+      "D.João V"
+    ],
+    "chapter": 4
+  },
+  {
+    "id": 19,
+    "question": "Neste capítulo toma-se conhecimento de quê sobre o exército português?",
+    "answer": 2,
+    "options": [
+      "Ajudava os lavradores e só queria batalhar",
+      "Roubava os lavradores",
+      "Roubava os lavradores e se recusava a lutar",
+      "Dedicava-se à guerra"
+    ],
+    "chapter": 4
+  },
+  {
+    "id": 20,
+    "question": "Com quem jantou o rei?",
+    "answer": 3,
+    "options": [
+      "Irmãos",
+      "Irmãos, sobrinhos e rainha",
+      "Irmãos e infantes",
+      "Irmãos, infantes e rainha"
+    ],
+    "chapter": 5
+  },
+  {
+    "id": 21,
+    "question": "A mãe de Blimunda procura quem?",
+    "answer": 1,
+    "options": [
+      "Filho",
+      "Filha",
+      "Marido",
+      "Irmã"
+    ],
+    "chapter": 5
+  },
+  {
+    "id": 22,
+    "question": "Para onde Baltasar iria voltar?",
+    "answer": 1,
+    "options": [
+      "Sintra",
+      "Mafra",
+      "Cascais",
+      "Torres Vedras"
+    ],
+    "chapter": 5
+  },
+  {
+    "id": 23,
+    "question": "Qual o símbolo que Blimunda desenhou no peito de Baltasar?",
+    "answer": 2,
+    "options": [
+      "Flor",
+      "Pomba",
+      "Cruz",
+      "Coração"
+    ],
+    "chapter": 5
+  },
+  {
+    "id": 24,
+    "question": "Ao acordar, sem abrir os olhos, o que Blimunda comeu?",
+    "answer": 0,
+    "options": [
+      "Pão",
+      "Bolacha",
+      "Fatia de bolo",
+      "Sopa"
+    ],
+    "chapter": 5
+  },
+  {
+    "id": 25,
+    "question": "Este capítulo começa com Baltasar Sete-Sóis a realçar a importância de um produto para os portugueses. Qual era esse produto?",
+    "answer": 0,
+    "options": [
+      "Pão",
+      "Vinho",
+      "Bacalhau",
+      "Água"
+    ],
+    "chapter": 6
+  },
+  {
+    "id": 26,
+    "question": "Quando a frota francesa chegou a Portugal, o que carregava?",
+    "answer": 2,
+    "options": [
+      "Carapau",
+      "Carne",
+      "Bacalhau",
+      "Produtos Comerciais"
+    ],
+    "chapter": 6
+  },
+  {
+    "id": 27,
+    "question": "O que Bartolomeu sonha um dia conseguir fazer?",
+    "answer": 3,
+    "options": [
+      "Correr",
+      "Conduzir",
+      "Cantar",
+      " Voar"
+    ],
+    "chapter": 6
+  },
+  {
+    "id": 28,
+    "question": "O que Bartolomeu disse?",
+    "answer": 1,
+    "options": [
+      "“O Homem primeiro anda, depois corre, depois tropeça e um dia voará.”",
+      "“O Homem primeiro tropeça, depois anda, depois corre e um dia voará.”",
+      "“O Homem primeiro corre, depois anda, depois tropeça e um dia voará.”",
+      "“O Homem primeiro tropeça, depois corre, depois anda e um dia voará.”"
+    ],
+    "chapter": 6
+  },
+  {
+    "id": 29,
+    "question": "Bartolomeu inventou uma máquina para um dia poder voar. Que nome lhe deu?",
+    "answer": 1,
+    "options": [
+      "Caracola",
+      "Passarola",
+      "Máquina Mágica",
+      "Máquina de Voar"
+    ],
+    "chapter": 6
+  },
+  {
+    "id": 30,
+    "question": "Qual o grande obstáculo que Baltasar se encontra a ultrapassar?",
+    "answer": 1,
+    "options": [
+      "Fome",
+      "Falta de dinheiro",
+      "Sede",
+      "Impaciência"
+    ],
+    "chapter": 7
+  },
+  {
+    "id": 31,
+    "question": "Qual era o sonho de Baltasar?",
+    "answer": 2,
+    "options": [
+      "Comprar uma bússola",
+      "Encontrar uma mulher",
+      "Fazer a passarola voar",
+      "Fazer um carro"
+    ],
+    "chapter": 7
+  },
+  {
+    "id": 32,
+    "question": "O que acontecera aos portugueses durante as viagens marítimas?",
+    "answer": 3,
+    "options": [
+      "Perderam-se no mar",
+      "Perderam o capitão",
+      "Afundaram a embarcação",
+      "Foram assaltados"
+    ],
+    "chapter": 7
+  },
+  {
+    "id": 33,
+    "question": "Há quanto tempo durava a seca referida no capítulo?",
+    "answer": 0,
+    "options": [
+      "8 meses",
+      "5 meses",
+      "1 mês",
+      "1 ano"
+    ],
+    "chapter": 7
+  },
+  {
+    "id": 34,
+    "question": "Qual o nome da filha de D. Maria Ana",
+    "answer": 0,
+    "options": [
+      "Maria Xavier Francisca Leonor Bárbara",
+      "Francisca Leonor Bárbara Xavier Maria",
+      "Maria Francisca Bárbara Leonor Xavier",
+      "Maria Xavier Francisca Bárbara Leonor"
+    ],
+    "chapter": 7
+  },
+  {
+    "id": 35,
+    "question": "O que procura Blimunda depois de acordar?",
+    "answer": 1,
+    "options": [
+      "Meia",
+      "Pão",
+      "Colher",
+      "Óculos"
+    ],
+    "chapter": 8
+  },
+  {
+    "id": 36,
+    "question": "O que exige Baltasar a Blimunda para que ele lhe dê o pão?",
+    "answer": 2,
+    "options": [
+      "Que Blimunda lhe faça o pequeno almoço",
+      "Que Blimunda lhe conte a sua idade",
+      "Que Blimunda lhe conte os seus segredos",
+      "Que Blimunda lhe faça o jantar"
+    ],
+    "chapter": 8
+  },
+  {
+    "id": 37,
+    "question": "Qual o “super-poder” de Blimunda?",
+    "answer": 1,
+    "options": [
+      "Voar",
+      "Ver as pessoas por dentro",
+      "Andar sobre a água",
+      "Manipular pessoas e objetos"
+    ],
+    "chapter": 8
+  },
+  {
+    "id": 38,
+    "question": "Quando acabaria o “superpoder” de Blimunda?",
+    "answer": 2,
+    "options": [
+      "Ao nascer do sol",
+      "Ao “nascer” da lua",
+      "Ao mudar da lua",
+      "Quando havia um eclipse"
+    ],
+    "chapter": 8
+  },
+  {
+    "id": 39,
+    "question": "Qual o nome do segundo filho de D. João e D. Maria Ana?",
+    "answer": 0,
+    "options": [
+      "D. Pedro",
+      "D. André",
+      "D. Fernando",
+      "D. Manuel"
+    ],
+    "chapter": 8
+  },
+  {
+    "id": 40,
+    "question": "Quem auxiliou o padre Lourenço na construção da passarola?",
+    "answer": 1,
+    "options": [
+      "Outro padre",
+      "Baltasar",
+      "Blimunda",
+      "O rei"
+    ],
+    "chapter": 9
+  },
+  {
+    "id": 41,
+    "question": "Quem foi visitar a quinta com Blimunda?",
+    "answer": 0,
+    "options": [
+      "Baltasar",
+      "O dono da casa",
+      "Um amigo de blimunda",
+      "O rei"
+    ],
+    "chapter": 9
+  },
+  {
+    "id": 42,
+    "question": "Qual é o tipo do narrador?",
+    "answer": 3,
+    "options": [
+      "Homodiegético",
+      "Heterodiegético",
+      "Nenhumas das duas",
+      "Ambas"
+    ],
+    "chapter": 9
+  },
+  {
+    "id": 43,
+    "question": "Qual é o tipo de focalização neste capítulo",
+    "answer": 2,
+    "options": [
+      "Omnisciente",
+      "Interna",
+      "Ambas",
+      "Nenhumas das duas"
+    ],
+    "chapter": 9
+  },
+  {
+    "id": 44,
+    "question": "Qual é a simbologia atribuída à passarola?",
+    "answer": 0,
+    "options": [
+      "Harmonia entre o sonho e a realização",
+      "Uma forma de conexão",
+      "Ambas",
+      "Nenhuma das duas"
+    ],
+    "chapter": 9
+  },
+  {
+    "id": 45,
+    "question": "Quem é que neste capítulo conhece a família de batalsar?",
+    "answer": 1,
+    "options": [
+      "O rei",
+      "Blimunda",
+      "O padre",
+      "Um primo afastado"
+    ],
+    "chapter": 10
+  },
+  {
+    "id": 46,
+    "question": "Porque é que o pai de Baltasar vendeu os terrenos?",
+    "answer": 3,
+    "options": [
+      "Para pagar dívidas",
+      "Por necessecidade, devido à falta de dinheiro",
+      "Porque não tinha razão para mantê-los",
+      "Para angariar dinheiro para a construção do covento"
+    ],
+    "chapter": 10
+  },
+  {
+    "id": 47,
+    "question": "Existe uma comparação entre Baltasar e Blimunda com que outros dois personagens?",
+    "answer": 0,
+    "options": [
+      "O rei e a rainha",
+      "Um padre e a sua amante",
+      "Os vizinhos",
+      "Os pais de baltazar"
+    ],
+    "chapter": 10
+  },
+  {
+    "id": 48,
+    "question": "Neste capitulo a rainha demonstra preocupação por alguma razão qual é?",
+    "answer": 1,
+    "options": [
+      "As revoltas constantes do povo",
+      "Os desmaios do rei",
+      "A morte de um familiar",
+      "As suas constantes visões"
+    ],
+    "chapter": 10
+  },
+  {
+    "id": 49,
+    "question": "Quem deseja casar com a rainha após a morte de D. João?",
+    "answer": 2,
+    "options": [
+      "Um rei de outra terra",
+      "Baltasar",
+      "O irmão do rei",
+      "Um nobre de classe alta"
+    ],
+    "chapter": 10
+  },
+  {
+    "id": 50,
+    "question": "De onde regressou o padre Bartolomeu Lourenço?",
+    "answer": 0,
+    "options": [
+      "Holanda",
+      "Alemanha",
+      "Inglaterra",
+      "França"
+    ],
+    "chapter": 11
+  },
+  {
+    "id": 51,
+    "question": "Quantos anos, o padre Bartolomeu, esteve fora",
+    "answer": 3,
+    "options": [
+      "4",
+      "1",
+      "2",
+      "3"
+    ],
+    "chapter": 11
+  },
+  {
+    "id": 52,
+    "question": "Aonde se dirigiu primeiro? ",
+    "answer": 1,
+    "options": [
+      "Terreira do Paço",
+      "Quinta de S. Sebastião da Pedreira",
+      "Rossio",
+      "Abegoaria"
+    ],
+    "chapter": 11
+  },
+  {
+    "id": 53,
+    "question": "Quem é que o padre foi visitar em Mafra?",
+    "answer": 2,
+    "options": [
+      "Nuno da Cunha e João Elvas",
+      "Baltasar e João Elvas",
+      "Baltasar e Blimunda",
+      "João Elvas e Blimunda"
+    ],
+    "chapter": 11
+  },
+  {
+    "id": 54,
+    "question": "A que ficou responsável Baltasar fazer?",
+    "answer": 1,
+    "options": [
+      "Recolher as vontades",
+      "Construção da passarola",
+      "Recolher as vontades e construir a passarola",
+      "Fazer nada"
+    ],
+    "chapter": 11
+  },
+  {
+    "id": 55,
+    "question": "João Francisco tenta convencer o filho a não partir para onde?",
+    "answer": 0,
+    "options": [
+      "Lisboa",
+      "Porto",
+      "Mafra",
+      "Aveiro"
+    ],
+    "chapter": 12
+  },
+  {
+    "id": 56,
+    "question": "Visita de Mafra prepara-se para o quê?",
+    "answer": 2,
+    "options": [
+      "Visita de Baltasar",
+      "Visita do papa",
+      "Visita real",
+      "Visita de Bartolomeu"
+    ],
+    "chapter": 12
+  },
+  {
+    "id": 57,
+    "question": "Quantos dias de festividade houve?",
+    "answer": 1,
+    "options": [
+      "5",
+      "3",
+      "2",
+      "4"
+    ],
+    "chapter": 12
+  },
+  {
+    "id": 58,
+    "question": "Para onde parte o casal?",
+    "answer": 1,
+    "options": [
+      "Mafra",
+      "Lisboa",
+      "Porto",
+      "Aveiro"
+    ],
+    "chapter": 12
+  },
+  {
+    "id": 59,
+    "question": "A quem o padre pediu para ajudar a construir a passarola?",
+    "answer": 3,
+    "options": [
+      "Nuno da Cunha",
+      "João Elvas",
+      "Baltasar",
+      "Blimunda"
+    ],
+    "chapter": 12
+  },
+  {
+    "id": 60,
+    "question": "Onde se encontraram Blimunda e Baltasar?",
+    "answer": 2,
+    "options": [
+      "No convento",
+      "Numa igreja",
+      "Numa quinta",
+      "No cemitério"
+    ],
+    "chapter": 13
+  },
+  {
+    "id": 61,
+    "question": "Baltasar e Blimunda arranjaram  …?",
+    "answer": 0,
+    "options": [
+      "A máquina voadora",
+      "A carroça",
+      "O portão da quinta",
+      "Não arranjaram nada"
+    ],
+    "chapter": 13
+  },
+  {
+    "id": 62,
+    "question": "Qual o dia da profissão do corpo de deus ?",
+    "answer": 1,
+    "options": [
+      "8 de julho 1719",
+      "8 junho 1719",
+      "10 de junho 1719",
+      "20 de junho 1719"
+    ],
+    "chapter": 13
+  },
+  {
+    "id": 63,
+    "question": "Quais são as personagens intervenientes no cap. XIII?",
+    "answer": 3,
+    "options": [
+      "João V, D. Maria, Blimunda",
+      "Baltasar, Blimunda, D.João V",
+      "Bartolomeu Lourenço, D.João V",
+      "Blimunda , Baltasar , Bartolomeu Lourenço"
+    ],
+    "chapter": 13
+  },
+  {
+    "id": 64,
+    "question": "Quantas vontades foram recolhidas?",
+    "answer": 0,
+    "options": [
+      "30",
+      "20",
+      "25",
+      "35"
+    ],
+    "chapter": 13
+  },
+  {
+    "id": 65,
+    "question": "Quantas personagens participam no cap. XIV?",
+    "answer": 1,
+    "options": [
+      "4",
+      "7",
+      "6",
+      "5"
+    ],
+    "chapter": 14
+  },
+  {
+    "id": 66,
+    "question": "A aula de música foi dirigida por?",
+    "answer": 0,
+    "options": [
+      "Domenico Scarlatti",
+      "Baltasar",
+      "Blimunda",
+      "D.João V"
+    ],
+    "chapter": 14
+  },
+  {
+    "id": 67,
+    "question": "Quem representa o povo ?",
+    "answer": 2,
+    "options": [
+      "Baltasar",
+      "Blimunda",
+      "Baltasar e Blimunda",
+      "Ninguém"
+    ],
+    "chapter": 14
+  },
+  {
+    "id": 68,
+    "question": "Onde se situa a quinta em que o padre ficou para preparar o seu sermão para a festa do corpo de deus?",
+    "answer": 3,
+    "options": [
+      "Pero Pinheiro",
+      "Mafra",
+      "Lisboa",
+      " S. Sebastião da pedreira"
+    ],
+    "chapter": 14
+  },
+  {
+    "id": 69,
+    "question": "O padre regressa de Coimbra sendo já …. ?",
+    "answer": 0,
+    "options": [
+      "Doutor em cânones",
+      "Medico",
+      "Bispo",
+      "Nenhuma das anteriores"
+    ],
+    "chapter": 14
+  },
+  {
+    "id": 70,
+    "question": "O que Domenico Scarlatti trouxe para a abegoaria?",
+    "answer": 2,
+    "options": [
+      "Virginal",
+      "Espineta",
+      "Cravo",
+      "Clavicórdio"
+    ],
+    "chapter": 15
+  },
+  {
+    "id": 71,
+    "question": "Bartolomeu informa __ que __ está infestada pela peste, trazida por uma nau do __?",
+    "answer": 1,
+    "options": [
+      "Domenico Scarlatti, Lisboa, Africa",
+      " Blimunda, Lisboa, Brasil",
+      "Blimunda, Porto, Brasil",
+      " Domenico Scarlatti, Lisboa, Brasilv"
+    ],
+    "chapter": 15
+  },
+  {
+    "id": 72,
+    "question": "Blimunda começa a recuperar graças à musica tocada por __ no __ e apoio de __?",
+    "answer": 0,
+    "options": [
+      "Domenico Scarlatti, cravo, Baltazar",
+      " Baltazar, Domenico Scarlatti, cravo",
+      "Domenico Scarlatti, cravo, Bartolomeu",
+      "Baltazar, cravo, Bartolomeu"
+    ],
+    "chapter": 15
+  },
+  {
+    "id": 73,
+    "question": "Quais os planos da narrativa",
+    "answer": 3,
+    "options": [
+      "Inauguração do Convento e Voo da passarola",
+      "Construção do Convento e Inauguração do Convento",
+      "Inauguração do Convento",
+      "Construção do Convento e Voo da passarola"
+    ],
+    "chapter": 15
+  },
+  {
+    "id": 74,
+    "question": "Qual o tempo decorrido durante o capítulo XV ?",
+    "answer": 1,
+    "options": [
+      "Dois meses",
+      "Um mês e meio",
+      "Um mês",
+      "Dois meses e meio"
+    ],
+    "chapter": 15
+  },
+  {
+    "id": 75,
+    "question": "A passarola fica pronto no recorrer do capítulo?",
+    "answer": 2,
+    "options": [
+      "XVII",
+      "XIV",
+      "XV",
+      "XVI"
+    ],
+    "chapter": 16
+  },
+  {
+    "id": 76,
+    "question": "Perda da quinta de S. Sebastião da Pedreira para __.",
+    "answer": 0,
+    "options": [
+      "Duque de Aveiro",
+      "D. João V",
+      "D. Maria Ana Josefa",
+      "Bartolomeu"
+    ],
+    "chapter": 16
+  },
+  {
+    "id": 77,
+    "question": "D. João V inaugurou a construção do convento em ?",
+    "answer": 1,
+    "options": [
+      "18 de Dezembro de 1718",
+      "17 de Novembro de 1717",
+      "18 de Novembro de 1717",
+      "17 de Dezembro de 1717"
+    ],
+    "chapter": 16
+  },
+  {
+    "id": 78,
+    "question": "Durante o capítulo é feita uma crítica á",
+    "answer": 3,
+    "options": [
+      "Sociedade e ao rei",
+      "Justiça e Sociedade",
+      "Corrupção e Sociedade",
+      "Justiça e corrupção"
+    ],
+    "chapter": 16
+  },
+  {
+    "id": 79,
+    "question": "O padre é perseguido por?",
+    "answer": 2,
+    "options": [
+      "Inquisição",
+      "D. João V",
+      "Santo Oficio",
+      "S. Sebastião"
+    ],
+    "chapter": 16
+  },
+  {
+    "id": 80,
+    "question": "Onde é que aconteceu o terramoto?",
+    "answer": 1,
+    "options": [
+      "Porto",
+      "Lisboa",
+      "Mafra",
+      "Esmoriz"
+    ],
+    "chapter": 17
+  },
+  {
+    "id": 81,
+    "question": "Onde Baltazar e Blimunda se instalaram?",
+    "answer": 3,
+    "options": [
+      "Em casa da família de Blimunda",
+      "Em casa de um amigo",
+      "Num hotel",
+      "Em casa da família de Baltazar"
+    ],
+    "chapter": 17
+  },
+  {
+    "id": 82,
+    "question": "Que ilha Baltazar visita",
+    "answer": 0,
+    "options": [
+      "Açores",
+      "Flores",
+      "Corvo",
+      "Madeira"
+    ],
+    "chapter": 17
+  },
+  {
+    "id": 83,
+    "question": "Qual o nome do padre que morreu?",
+    "answer": 0,
+    "options": [
+      "Bartolomeu",
+      "Baltasar",
+      "António",
+      "Manuel"
+    ],
+    "chapter": 17
+  },
+  {
+    "id": 84,
+    "question": "Quem dá a notícia da morte do padre a Baltazar e Blimunda?",
+    "answer": 2,
+    "options": [
+      "Álvaro Diogo",
+      "Baltasar",
+      "Scarlatti",
+      "Bartolomeu"
+    ],
+    "chapter": 17
+  },
+  {
+    "id": 85,
+    "question": "Os homens são comparados a que animais?",
+    "answer": 2,
+    "options": [
+      "Cães",
+      "Cavalos",
+      "Formigas",
+      "Liões"
+    ],
+    "chapter": 18
+  },
+  {
+    "id": 86,
+    "question": "Quantos anos tem Baltazar?",
+    "answer": 2,
+    "options": [
+      "30",
+      "32",
+      "40",
+      "44"
+    ],
+    "chapter": 18
+  },
+  {
+    "id": 87,
+    "question": "Qual o vício de Baltazar após a morte do Padre?",
+    "answer": 0,
+    "options": [
+      "Vinho",
+      "Cerveja",
+      "Bolo",
+      "Sumo"
+    ],
+    "chapter": 18
+  },
+  {
+    "id": 88,
+    "question": "O que aconteceu a Baltazar na guerra?",
+    "answer": 2,
+    "options": [
+      "Perdeu um pé",
+      "Levou um tiro",
+      "Perdeu a mão",
+      "Perdeu um dedo"
+    ],
+    "chapter": 18
+  },
+  {
+    "id": 89,
+    "question": "Quantos trabalhadores morreram?",
+    "answer": 3,
+    "options": [
+      "4",
+      "3",
+      "6",
+      "2"
+    ],
+    "chapter": 18
+  },
+  {
+    "id": 90,
+    "question": "Quem é que ajudou Baltazar a puxar a junta dos bois?",
+    "answer": 2,
+    "options": [
+      "João Grande",
+      "João Pinheiro",
+      "João Pequeno",
+      "Ninguém"
+    ],
+    "chapter": 19
+  },
+  {
+    "id": 91,
+    "question": "Onde é que foram buscar a pedra muito grande?",
+    "answer": 0,
+    "options": [
+      "Pero Pinheiro",
+      "Coimbra",
+      "Lisboa",
+      "Mafra"
+    ],
+    "chapter": 19
+  },
+  {
+    "id": 92,
+    "question": "Qual era o nome do homem que morreu atropelado?",
+    "answer": 1,
+    "options": [
+      "Baltazar",
+      "Francisco Marques",
+      "João Pequeno",
+      "João Pequeno"
+    ],
+    "chapter": 19
+  },
+  {
+    "id": 93,
+    "question": "Durante a descida quantos bois ficaram feridos?",
+    "answer": 1,
+    "options": [
+      "3",
+      "2",
+      "4",
+      "Nenhum"
+    ],
+    "chapter": 19
+  },
+  {
+    "id": 94,
+    "question": "Quantos dias demorou a viagem?",
+    "answer": 3,
+    "options": [
+      "9",
+      "6",
+      "7",
+      "8"
+    ],
+    "chapter": 19
+  },
+  {
+    "id": 95,
+    "question": "Onde tenta regressar Baltasar?",
+    "answer": 2,
+    "options": [
+      "Ao convento",
+      "A casa",
+      "Ao Monte Junto",
+      "Nenhuma das anteriores"
+    ],
+    "chapter": 20
+  },
+  {
+    "id": 96,
+    "question": "Após quantas tentativas?",
+    "answer": 1,
+    "options": [
+      "7 ou 8",
+      "6 ou 7",
+      "4 ou 5",
+      "3 ou 4"
+    ],
+    "chapter": 20
+  },
+  {
+    "id": 97,
+    "question": "De que se trata a confidencia que Baltasar faz ao Pai?",
+    "answer": 0,
+    "options": [
+      "Trata-se do destino da sua viagem e do voo na Passarela",
+      "Trata se do destino da sua viagem",
+      "Trata se do voo na Passarela",
+      "Nenhuma das anteriores"
+    ],
+    "chapter": 20
+  },
+  {
+    "id": 98,
+    "question": "A quem se deve a renovação da passarela?",
+    "answer": 3,
+    "options": [
+      "Padre Bartolomeu Lourenço de Gusmão",
+      "Maria Ana Josefa",
+      "João V",
+      "Baltasar e Blimunda"
+    ],
+    "chapter": 20
+  },
+  {
+    "id": 99,
+    "question": "De que sofre a cidade de Mafra neste capítulo?",
+    "answer": 0,
+    "options": [
+      "É infestada por doenças venéreas",
+      "Morte repentina",
+      "Lepra",
+      "Peste Negra"
+    ],
+    "chapter": 20
+  },
+  {
+    "id": 100,
+    "question": "Que decisão toma D.João V que consiste com a data do seu aniversário?",
+    "answer": 2,
+    "options": [
+      "Casar-se",
+      "Ir para a guerra",
+      "Sagração do convento que é em 22 de Outubro de 1730",
+      "Nenhuma das anteriores"
+    ],
+    "chapter": 21
+  },
+  {
+    "id": 101,
+    "question": "Que desejo manifesta D. João V ?",
+    "answer": 3,
+    "options": [
+      "Construir o Convento de Mafra",
+      "Construir o Convento de Lisboa",
+      "Construir o Convento de Coimbra",
+      "Construir uma basílica como a de S. Pedro em Roma"
+    ],
+    "chapter": 21
+  },
+  {
+    "id": 102,
+    "question": "Quem é que ele chama para executar essa tarefa?",
+    "answer": 0,
+    "options": [
+      "O Arquiteto João Frederico Ludovice (Ludwig)",
+      "Domenico Scarlatti (professor)",
+      "Baltasar Mateus",
+      "João Elvas (Soldado)"
+    ],
+    "chapter": 21
+  },
+  {
+    "id": 103,
+    "question": "Que decisão toma D.João V?",
+    "answer": 1,
+    "options": [
+      "Abandonar a construção",
+      "Ampliar a dimensão do projeto de 80 para 300 frades",
+      "Diminuir a dimensão do projeto de 80 para 50 frades",
+      "Diminuir a dimensão do projeto de 80 para 20 frades"
+    ],
+    "chapter": 21
+  },
+  {
+    "id": 104,
+    "question": "Porque é que D. Joao V decide que a sagração da basílica fosse a 22 de Outubro de 1730?",
+    "answer": 2,
+    "options": [
+      "Por ter que ir para a guerra",
+      "Por estar gravemente doente",
+      "Por ter medo de morrer",
+      "Por não ter dinheiro"
+    ],
+    "chapter": 21
+  },
+  {
+    "id": 105,
+    "question": "Que casamentos ocorrem durante este capitulo?",
+    "answer": 1,
+    "options": [
+      "Casamento de Maria Barbara com D.José, e o de Fernando VI com Mariana Vitoria",
+      "Casamento de Maria Barbara com Fernando VI, e o de D.José com Mariana Vitoria",
+      "Casamento de Maria Ana Josefa com Fernando VI, e o de D.José com Mariana Vitoria",
+      "Casamento de Maria Barbara com Fernando VI, e o de D.José com Blimunda"
+    ],
+    "chapter": 22
+  },
+  {
+    "id": 106,
+    "question": "Em que é que consiste a “troca das princesas”?",
+    "answer": 2,
+    "options": [
+      "Unir as famílias reais de Portugal e França",
+      "Unir as famílias reais de Portugal e Itália",
+      "Unir as famílias reais de Portugal e Espanha",
+      "Unir as famílias reais de Portugal e Inglaterra"
+    ],
+    "chapter": 22
+  },
+  {
+    "id": 107,
+    "question": "Em que ano é a “troca das princesas”?",
+    "answer": 1,
+    "options": [
+      "1726",
+      "1729",
+      "1730",
+      "1719"
+    ],
+    "chapter": 22
+  },
+  {
+    "id": 108,
+    "question": "Quantos noviços partiram de S. José de Ribamar até Mafra?",
+    "answer": 1,
+    "options": [
+      "20 noviços",
+      "30 noviços",
+      "10 noviços",
+      "15 noviços"
+    ],
+    "chapter": 23
+  },
+  {
+    "id": 109,
+    "question": "Para onde foram colocados os 18 santos?",
+    "answer": 0,
+    "options": [
+      "Convento de Mafra",
+      "S. José de Ribamar",
+      "Convento de S. Bento",
+      "Porto"
+    ],
+    "chapter": 23
+  },
+  {
+    "id": 110,
+    "question": "Quanto tempo levou o Convento de Mafra a construir?",
+    "answer": 3,
+    "options": [
+      "20 anos",
+      "25 anos",
+      "14 anos",
+      "13 anos"
+    ],
+    "chapter": 23
+  },
+  {
+    "id": 111,
+    "question": "Qual destes santos foram transportados para o Convento de Mafra?",
+    "answer": 1,
+    "options": [
+      "S. João e S. Martinho",
+      "S. Vicente e S. Sebastião",
+      "S. Torcato e Santo Ovídio",
+      "Santa Clara e S. Teotónio"
+    ],
+    "chapter": 23
+  },
+  {
+    "id": 112,
+    "question": "Qual o espaço predominante?",
+    "answer": 2,
+    "options": [
+      "Rossio",
+      "Terreiro do Paço",
+      "Convento de Mafra",
+      "Lisboa"
+    ],
+    "chapter": 23
+  },
+  {
+    "id": 113,
+    "question": "Para que local o frade leva Blimunda?",
+    "answer": 3,
+    "options": [
+      "O Convento",
+      "A casa dele",
+      "Um apartamento",
+      "Uma Ruína"
+    ],
+    "chapter": 24
+  },
+  {
+    "id": 114,
+    "question": "O que Blimunda usa para matar o frade?",
+    "answer": 2,
+    "options": [
+      "Uma Faca",
+      "Um Martelo",
+      "Um Espigão",
+      "Um Machado"
+    ],
+    "chapter": 24
+  },
+  {
+    "id": 115,
+    "question": "Quem encontrou Blimunda a dormir? ",
+    "answer": 3,
+    "options": [
+      "O Frade",
+      "Baltazar",
+      "Inês Antónia",
+      "Inês Antónia e Álvaro Diogo"
+    ],
+    "chapter": 24
+  },
+  {
+    "id": 116,
+    "question": "Qual o ano e dia que o Convento de Mafra é inaugurado?",
+    "answer": 1,
+    "options": [
+      "13 de Setembro de 1725",
+      "22 de Outubro de 1730",
+      "6 de Janeiro de 1734",
+      "15 de Março de 1717"
+    ],
+    "chapter": 24
+  },
+  {
+    "id": 117,
+    "question": "Quantas noites ficou Blimunda sem dormir?",
+    "answer": 3,
+    "options": [
+      "5",
+      "4",
+      "3",
+      "2"
+    ],
+    "chapter": 24
+  },
+  {
+    "id": 118,
+    "question": "Durante quanto tempo andou Blimunda pelos caminhos á procura de Baltazar?",
+    "answer": 3,
+    "options": [
+      "3 meses",
+      "10 meses",
+      "4 anos",
+      "9 anos"
+    ],
+    "chapter": 25
+  },
+  {
+    "id": 119,
+    "question": "Qual o nome pelo que as pessoas tratavam Blimunda?",
+    "answer": 1,
+    "options": [
+      "A Maluca",
+      "A Voadora",
+      "A Assassina",
+      "A Destemida"
+    ],
+    "chapter": 25
+  },
+  {
+    "id": 120,
+    "question": "Quantas vezes passará Blimunda por Lisboa?",
+    "answer": 2,
+    "options": [
+      "3",
+      "5",
+      "7",
+      "10"
+    ],
+    "chapter": 25
+  },
+  {
+    "id": 121,
+    "question": "Onde é que Blimunda finalmente encontrará Baltazar?",
+    "answer": 0,
+    "options": [
+      "No Rossio",
+      "Em Cascais",
+      "Na Avenida da Liberdade",
+      "No Terreiro do Paço"
+    ],
+    "chapter": 25
+  },
+  {
+    "id": 122,
+    "question": "Quantos eram os condenados á fogueira escritos no auto que Blimunda encontrará?",
+    "answer": 1,
+    "options": [
+      "3",
+      "11",
+      "15",
+      "22"
+    ],
+    "chapter": 25
+  },
+  {
+    "id": 123,
+    "question": "Quem é o rei que governa durante a obra?",
+    "answer": 1,
+    "options": [
+      "D. João III",
+      "D. João V",
+      "D. João IV",
+      "D. João I"
+    ],
+    "chapter": 26
+  },
+  {
+    "id": 124,
+    "question": "Qual a data em que Baltazar e Blimunda se conhecem?",
+    "answer": 3,
+    "options": [
+      "11 de Setembro de 1709",
+      "5 de Abril de 1700",
+      "19 de Janeiro de 1718",
+      "26 Julho de 1711"
+    ],
+    "chapter": 26
+  },
+  {
+    "id": 125,
+    "question": "Qual a simbologia do convento de Mafra?",
+    "answer": 2,
+    "options": [
+      "É o símbolo da ostentação régia, da opressão e megalomania",
+      "Representa o sacrifício e exploração do povo que trabalhou nele",
+      "É o símbolo da ostentação régia, da opressão, megalomania e o sacrifício e exploração do povo que trabalhou nele",
+      "Representa a paz e harmonia que eram vividas na altura"
+    ],
+    "chapter": 26
+  }
+]
